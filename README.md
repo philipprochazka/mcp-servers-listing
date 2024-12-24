@@ -3,6 +3,9 @@
 Discover the most comprehensive and up-to-date collection of MCP servers in the market.
 This repository serves as a centralized hub, offering an extensive catalog of open-source and proprietary MCP servers, complete with features, documentation links, and contributors.
 
+## Website
+Explore the MCP Servers Hub directly on our [webpage](https://mcp-servers-hub-website.pages.dev), which is synced with this repository for the latest updates. The webpage offers a more interactive way to browse the collection of MCP servers, complete with search and sorting options.
+
 ## Table of Contents
 - [MCP Servers](#mcp-servers)
 - [What is MCP?](#what-is-mcp)
